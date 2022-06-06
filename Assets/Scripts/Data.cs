@@ -52,4 +52,3 @@ public static class Data
     };
 
 }
-//this is copy pasta'd plz dont ask me what any of this does//
