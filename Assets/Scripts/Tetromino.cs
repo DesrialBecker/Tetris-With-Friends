@@ -23,4 +23,6 @@ public struct TetrominoData
    {
        this.cells = Data.Cells[this.tetrinimo];
    }
+
 }
+//logic and seperation for tiles//
